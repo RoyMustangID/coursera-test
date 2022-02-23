@@ -1,0 +1,19 @@
+body{
+	font-size: 22px;
+	color: blue;
+	text-align: center;
+}
+
+div > ul{
+	margin-left: 600px;
+	text-align: center;
+	margin-right: 600px;
+}
+
+#pencetan {
+	color: red;
+}
+
+#pencetan:hover, #pencetan:active {
+	color: black;
+}
